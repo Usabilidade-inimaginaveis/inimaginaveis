@@ -1,6 +1,3 @@
-# Melhorias Usabilidade - Shopee
-
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/39422637/205773759-dda972f3-9960-4b13-bb5e-d62ae61429ba.png" width="850px">
 </div>
